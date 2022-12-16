@@ -1,0 +1,333 @@
+@media screen and (max-width:1200px){
+    .services .service-icon .item-ser i{
+        width: 17%;
+     }
+     .services .service-icon .item-ser{
+        padding-right: 10px;
+     }
+     .services .service-icon .item-ser .content-ser{
+        width: 80%;
+     }
+}
+@media screen and (max-width:992px){
+    nav{
+        align-items: flex-start;
+        padding-top: 20px;
+    }
+    .list ul{
+        display: none;
+     }
+     .list{
+        flex-direction: column;
+         width: 100%;
+         align-items: flex-end;
+         justify-content: flex-end;
+         font-size: 40px;
+         color: white;
+     }
+     .list:hover ul{
+        
+            display: flex;
+            background-color:rgba(0, 0, 0, .8);
+            font-size: 16px;
+     }
+     .list:hover ul li{
+         width: 90%;
+         border-bottom: 1px solid rgba(250, 250, 250, 0.15);
+     }
+     .intro-self{
+        flex-direction: column;
+     }
+     .intro-self .intro-left{
+        text-align: center;
+        width: 90%;
+     }
+     .intro-self .intro-right{
+        width: 90%;
+     }
+     .services .service-icon .item-ser .content-ser{
+        width: 80%;
+     }
+     .services .service-icon .item-ser i{
+        width: 18%;
+     }
+     .portfolio .img-port .port-pic{
+        width: 50%;
+     }
+
+     .portfolio .img-port .pic2{
+margin-top: -170px;
+    }
+    .portfolio .img-port{
+        width: 75%;
+    }
+    .test-back h2{
+        font-size: 100px;
+    }
+    .test-back p{
+        top: 115px;
+    }
+    .testimonial .intro-test .person{
+        width: 90%;
+        margin-bottom: 24px;
+    }
+    .contact .contact-desc .contact-item{
+        width: 90%;
+        text-align: center;
+        order: 1;
+    }
+    .contact .contact-desc .contact-item .cal{
+        width: 90%;
+        justify-content: center;
+        margin-left: 30px;
+    }
+    .contact .contact-desc .note{
+        width: 90%;
+        text-align: center;
+        margin-bottom: 48px;
+    }
+    .contact .contact-desc .note input{
+        width: 100%;
+        margin-bottom: 24px;
+    }
+    .contact .contact-desc .note textarea{
+        margin: 0;
+        width: 100%;
+    }
+    .contact .contact-desc .note a{
+        margin-left: 0%;
+        
+    }
+    footer{
+        text-align: center;
+    }
+    footer p{
+        width: 90%;
+        margin-bottom: 24px;
+    }
+
+    footer .foot-right{
+        width: 90%;
+    }
+    footer ul{
+        justify-content: center;
+    }
+
+}
+@media screen and (max-width:910px){
+    .portfolio .img-port .pic2{
+        margin-top: -150px;
+            }
+}
+@media screen and (max-width:768px) {
+    nav{
+        align-items: flex-start;
+        padding-top: 20px;
+    }
+    .list ul{
+       display: none;
+    }
+    .list {
+        width: 100%;
+        align-items: flex-end;
+        justify-content: flex-end;
+        font-size: 40px;
+        color: white;
+    }
+    .list:hover ul{
+           display: flex;
+
+           background-color:rgba(0, 0, 0, .8);
+           font-size: 16px;
+    }
+    .list:hover ul li{
+        width: 90%;
+        border-bottom: 1px solid rgba(250, 250, 250, 0.15);
+    }
+    .about .about-num .item-num{
+        width: 50%;
+    }
+    .about .about-num  .item1{
+        border-right:1px dotted #e0dede;
+    }
+    .about .about-num .item2{
+        border-bottom:1px dotted  #e0dede;
+        border-right: none;
+    }
+    .about .about-num .item3{
+        border-top:1px dotted  #e0dede;
+    }
+  
+    .services .service-icon .item-ser{
+        width: 100%;
+    }
+    .service-back h2{
+        font-size: 100px;
+    }
+    .service-back p{
+        top: 115px;
+    }
+    .services .service-icon .item-ser i{
+        width: 12%;
+    }
+    .summary .content-sum h2{
+        width: 80%;
+    }
+    .summary .content-sum .item-sum{
+        width: 80%;
+    }
+    .ord-2{
+        order: 1;
+    }
+    .ord-6{
+        order: 2;
+    }
+    .sum-skills .range-skills .range{
+        width: 80%;
+    }
+    .sum-skills h2{
+        width: 80%;
+    }
+    .summary-back h2{
+        font-size: 100px;
+    }
+    .summary-back p{
+        top: 115px;
+    }
+    .port-back h2{
+        font-size: 100px;
+    }
+    .port-back p{
+        top: 115px;
+    }
+    .contact-back h2{
+        font-size: 100px;
+    }
+    .contact-back p{
+        top: 115px;
+    }
+    .portfolio .img-port .port-pic{
+        width: 90%;
+     }
+     .portfolio .img-port .pic2{
+        margin-top: 0px;
+            }
+             .test-back h2{
+                font-size: 100px;
+            }
+            .test-back p{
+                top: 115px;
+            }
+            .contact .contact-desc .contact-item{
+                width: 90%;
+                text-align: center;
+                order: 1;
+            }
+            .contact .contact-desc .contact-item .cal{
+                width: 90%;
+                justify-content: center;
+                margin-left: 30px;
+            }
+            .contact .contact-desc .note{
+                width: 90%;
+                text-align: center;
+                margin-bottom: 48px;
+            }
+            .contact .contact-desc .note input{
+                width: 100%;
+                margin-bottom: 24px;
+            }
+            .contact .contact-desc .note textarea{
+                margin: 0;
+                width: 100%;
+            }
+            .contact .contact-desc .note a{
+                margin-left: 0%;
+                
+            }
+} 
+@media screen and (max-width:700px){
+    .about-back h2{
+        font-size: 90px;
+    }
+    .about-back p{
+        top: 110px;
+    }
+    .summary-back h2{
+        font-size: 90px;
+    }
+    .summary-back p{
+        top: 110px;
+    }
+    .port-back h2{
+        font-size: 90px;
+    }
+    .port-back p{
+        top: 110px;
+    }
+    .test-back h2{
+        font-size: 70px;
+    }
+    .test-back p{
+        top: 100px;
+    }
+    .contact-back h2{
+        font-size: 70px;
+    }
+    .contact-back p{
+        top: 100px;
+    }
+    .testimonial .intro-test .person{
+        width: 90%;
+        margin-bottom: 24px;
+    }
+}
+@media screen and (max-width:570px){
+    .testimonial .intro-test .person{
+        width: 100%;
+        margin-bottom: 24px;}
+        footer p{
+            width: 100%;
+            margin-bottom: 24px;
+        }
+    
+}
+@media screen and (max-width:500px){
+    .about-back h2{
+        font-size: 70px;
+    }
+    .about-back p{
+        top: 100px;
+        font-size: 34px;
+    }
+    .service-back h2{
+        font-size: 70px;
+    }
+    .service-back p{
+        top: 100px;
+    }
+    .summary-back h2{
+        font-size: 70px;
+    }
+    .summary-back p{
+        top: 100px;
+    }
+    .port-back h2{
+        font-size: 70px;
+    }
+    .port-back p{
+        top: 100px;
+    }
+    .test-back h2{
+        font-size: 70px;
+    }
+    .test-back p{
+        top: 100px;
+    }
+    .contact-back h2{
+        font-size: 70px;
+    }
+    .contact-back p{
+        top: 100px;
+    }
+}
